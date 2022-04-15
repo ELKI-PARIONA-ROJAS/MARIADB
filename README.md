@@ -41,6 +41,12 @@ CREATE FUNCTION CALCULO(precio DECIMAL)
 
 
 <!-- GITHUB MARKDOWN -->
+* [ ] simbolo
 * [x] simbolo
+
+@faztweb 
+:smiley: 
+:trollface:
+
 
 
